@@ -3,4 +3,4 @@
 
 ### How to play
 
-Use the arrows (up, down, left, right) to run from the MC's that are coming towards you. 
+Use the arrows (up, down, left, right) to dodge from the MC's that are coming towards you. 
